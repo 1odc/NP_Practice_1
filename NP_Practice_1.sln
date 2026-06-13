@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP_Practice_1", "NP_Practice_1\NP_Practice_1.csproj", "{DD9770D3-EA6D-4F2C-B772-07AFD5AABA74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTCPServerApp", "..\PracticeTCPServerApp\PracticeTCPServerApp\PracticeTCPServerApp.csproj", "{F6B28AB9-6FFB-E0EC-9BF3-FF655885B244}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServerApp", "TcpServerApp\TcpServerApp.csproj", "{D37136EA-891D-4371-A0CA-271D45A12B7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DD9770D3-EA6D-4F2C-B772-07AFD5AABA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD9770D3-EA6D-4F2C-B772-07AFD5AABA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD9770D3-EA6D-4F2C-B772-07AFD5AABA74}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6B28AB9-6FFB-E0EC-9BF3-FF655885B244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6B28AB9-6FFB-E0EC-9BF3-FF655885B244}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6B28AB9-6FFB-E0EC-9BF3-FF655885B244}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6B28AB9-6FFB-E0EC-9BF3-FF655885B244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37136EA-891D-4371-A0CA-271D45A12B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37136EA-891D-4371-A0CA-271D45A12B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37136EA-891D-4371-A0CA-271D45A12B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37136EA-891D-4371-A0CA-271D45A12B7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
